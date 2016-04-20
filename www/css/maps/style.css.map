@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.less","style.css"],"names":[],"mappings":"AAAA;EACC,gBAAA;CCCA","file":"../style.css","sourcesContent":["h1{\n\tfont-size: 32px;\n\t\n}","h1 {\n  font-size: 32px;\n}\n"]}
